@@ -41,7 +41,7 @@ a {
 }
 
 a:hover {
-  color: #6F4A8E;
+  color: #A3F5FF;
   text-decoration: none;
 }
 
@@ -403,7 +403,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #6F4A8E;
+  background: #A3F5FF;
   margin: 4px 10px;
 }
 
@@ -774,7 +774,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon::before {
-  background: #6F4A8E;
+  background: #A3F5FF;
 }
 
 .services .icon-box:hover h4 a,
