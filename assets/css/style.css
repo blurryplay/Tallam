@@ -11,6 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
+  background-image: url('assets/img/Desktop-1.png');
   background-color: #040404;
   color: #fff;
   position: relative;
@@ -20,6 +21,7 @@ body {
 body::before {
   content: "";
   position: fixed;
+  background-image: url('assets/img/Desktop-1.png');
   background: #040404;
   background-size: cover;
   left: 0;
